@@ -31,7 +31,7 @@
 #   cmake --build <build-dir>
 # ~~~
 
-# Request a version available on latest Ubuntu LTS (20.04)
+# Request a version available on latest Ubuntu LTS
 
 cmake_minimum_required(VERSION 3.20)
 
